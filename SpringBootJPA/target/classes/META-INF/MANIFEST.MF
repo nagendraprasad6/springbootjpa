@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot And JPA
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Nagendra
+Implementation-Vendor-Id: com.nagendra
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootJPA
+Created-By: Maven Integration for Eclipse
+
